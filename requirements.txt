@@ -1,0 +1,6 @@
+torch
+torchvision
+requests
+numpy
+pandas
+-e .
