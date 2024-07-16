@@ -1,0 +1,7 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  SOURCE_URL: https://www.gutenberg.org/files/100/100-0.txt
+  local_data_file: artifacts/data_ingestion/data.txt
+  unzip_dir: artifacts/data_ingestion

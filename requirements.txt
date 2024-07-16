@@ -3,4 +3,5 @@ torchvision
 requests
 numpy
 pandas
--e .
+python-box
+PyYAML
